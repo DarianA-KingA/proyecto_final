@@ -1,0 +1,9 @@
+instrucciones:
+-ejercutar el documento schema database para generar la base de datos
+-ejecutar proyecto
+-debe configurar el protocolo TCP/IP de SQLServer para que funcionen algunas librerias, para mas inforcion, buscarlo en internet.
+-IDE emlpleada: netbeans.
+-la clase principal(no la main, sino la que es el cuerpo del proyecto) es form_login.
+configuradcion:
+java 8
+SQLServer
